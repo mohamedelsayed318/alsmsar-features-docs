@@ -97,7 +97,6 @@ Every endpoint responds using:
         "email": "a@b.com",
         "avatar": null,
         "isSeller": false,
-        "isSafe": false,
         "createdAt": "2026-01-07T10:00:00.000Z"
       }
     }
@@ -129,7 +128,6 @@ Every endpoint responds using:
         "email": "c@d.com",
         "avatar": null,
         "isSeller": true,
-        "isSafe": false,
         "createdAt": "2026-01-07T10:00:00.000Z"
       }
     }
@@ -199,7 +197,6 @@ Every endpoint responds using:
     "isActive": true,
     "isApproved": true,
     "isSeller": false,
-    "isSafe": false,
     "createdAt": "2026-01-07T10:00:00.000Z",
     "updatedAt": "2026-01-07T10:00:00.000Z",
     "followers": [
